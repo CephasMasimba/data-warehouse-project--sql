@@ -1,6 +1,8 @@
 DDL SCRIPT: BRONZE TABLES
 This script creates tables in the 'broncze' schema,dropping existing tables if ther already exist.
 incase you want to re-define the DDL Stracture of 'bronze', ru this script.
+
+Prepared By : Cephas
 ====================================================================================================
 
 
